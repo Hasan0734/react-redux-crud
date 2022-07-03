@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='position-absolute bottom-0 w-100'>
+        <div className='mt-5'>
             <p className='text-center'>Copyritght 2022 Jahid Hasan</p>
         </div>
     );
